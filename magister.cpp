@@ -1,5 +1,15 @@
 #include <iostream>
-using namespace std;
+
+
 int main() {
-	cout << "	Hello Magister!" << endl << "I love pinki but a do not like more pinki" << endl;
+	setlocale(LC_ALL, "Russian");
+	std::cout << "Magic" << std::endl;
+	std::cout << "Дамблдор" << std::endl;
+	std::cout << "Потный Гарри" << std::endl;
+	std::cout << "Хогвартс" << std::endl;
+	std::cout << "Мяч" << std::endl;
+	std::cout << "Хокей" << std::endl;
+	std::cout << "Красная Машина" << std::endl;
+	std::cout << "феррари" << std::endl;
+	std::cout << "Конь" << std::endl;
 }
